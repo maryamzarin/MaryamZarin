@@ -42,7 +42,7 @@
   Programmed a multi-species ecological simulation in Java using OOP.  
   Modelled survival conditions, reproduction, and population dynamics with adjustable parameters such as lifespan and birthrate.
 
-  - 🍬 **Candy Crush Clone (Pygame)**  
+- 🍬 **Candy Crush Clone (Pygame)**  
   Recreated the classic game using Python and Pygame, applying object-oriented programming principles such as classes, iheritance and stack/queue management.
   Implemented full game logic for tile matching, animations, score tracking, and game state transitions.
 
