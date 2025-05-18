@@ -11,7 +11,7 @@
 ### 🔧 Tech Stack
 - 🐍 **Languages:** Python, Java, JavaScript, R, SQL, HTML, CSS  
 - 🧰 **Frameworks & Libraries:** Django, Electron, Pandas, NumPy, Scikit-learn, Folium, Matplotlib, NetworkX  
-- 💻 **Tools:** Jupyter Notebook, Git, Linux, Tableau  
+- 💻 **Tools:** Jupyter Notebook, Git, Linux, Tableau, Power BI  
 
 ---
 
