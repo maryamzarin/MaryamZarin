@@ -14,6 +14,10 @@
 - 💻 **Tools:** Jupyter Notebook, Git, Linux, Tableau, Power BI  
 
 ---
+### 📊 Data Science Projects
+
+[Here](https://github.com/maryamzarin/Portfolio-Guide) is where I showcase my Data Science Portfolio
+---
 
 ### 🚀 Projects
 
