@@ -16,7 +16,7 @@
 ---
 ### 📊 Data Science Projects
 
-[Here](https://github.com/maryamzarin/Portfolio-Guide) is where I showcase my Data Science Portfolio
+- [Here](https://github.com/maryamzarin/Portfolio-Guide) is where I showcase my Data Science Portfolio
 ---
 
 ### 🚀 Projects
