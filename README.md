@@ -22,7 +22,7 @@
 ### 🚀 Projects
 
 - 🌱 **Planter / Allotment Web App - Forum & Space Organiser** (In Progress)  
-  Employed Python Django and Tailwind to build a Web App which allows users to map out their garden plans, also has an Allotment where users can create forums, posts and comments
+  Employed Python Django and Tailwind to build a Web App which allows users to map out garden plans. Allotment allows users to create forums, posts and comments
   to discuss topics of interest, as well as private message and follow one another.
   Created class-based forms, model-based pages, class-based views, used sqlite to handle user database.
   
