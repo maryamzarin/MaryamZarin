@@ -21,9 +21,13 @@
 
 ### 🚀 Projects
 
+- 🌱 **Planter / Allotment Web App - Forum & Space Organiser** (In Progress)
+  Employed Python Django and Tailwind to build a Web App which allows users to map out their garden plans, also has an Allotment where users can create forums, posts and comments
+  to discuss topics of interest, as well as private message and follow one another.
+  Created class-based forms, model-based pages, class-based views, used sqlite to handle user database.
+  
 - ⚡ **Electron Desktop App – Egg Timer / Utility Tool**  
-  Built a lightweight cross-platform desktop application using Electron and JavaScript.  
-  Integrated custom UI components, file access, and system-level functionality for a productivity tool.
+  Built a lightweight cross-platform desktop application using Electron and JavaScript, HTML & CSS.  
 
 - 🚲 **Bike Redistribution Optimisation – Final Year Dissertation**  
   Analysed Santander Cycles data (600k+ entries per sheet) using Python (Pandas, Matplotlib, Folium) to visualise usage trends and cluster demand locations.  
